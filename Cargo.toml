@@ -2,5 +2,6 @@
 
 members = [
     "r/function-fanxing",
-    "r/trait-model"
+    "r/trait-model",
+    "r/generic-types-trait",
 ]
