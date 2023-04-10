@@ -3,6 +3,8 @@
 members = [
     "r/function-fanxing",
     "r/trait-model",
+    "r/file-example",
     "r/generic-types-trait",
+    "r/mini-redis",
     "r/closures",
 ]
